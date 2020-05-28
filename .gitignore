@@ -10,3 +10,10 @@ cdk.out
 # Parcel build directories
 .cache
 .build
+.DS_Store
+.idea
+package-lock.json
+lambda/hello1.py.zip
+template.yaml
+Pipfile.lock
+abc.json
