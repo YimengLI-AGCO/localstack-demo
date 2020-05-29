@@ -18,3 +18,4 @@ template.yaml
 Pipfile.lock
 abc.json
 hello_response.json
+lambda/dynamodb_get.py.zip
