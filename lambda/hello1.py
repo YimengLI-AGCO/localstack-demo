@@ -14,4 +14,3 @@ def hello(event, context):
         'statusCode': 200,
         'body': "李一萌"
     }
-
